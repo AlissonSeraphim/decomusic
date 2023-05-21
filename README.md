@@ -1,4 +1,4 @@
-# [PT-BR]DecoMusic
+# [PT-BR] DecoMusic
 
 DecoMusic é um projeto desenvolvido durante um hackathon de mais de 24 horas organizado pela deco.cx. É uma aplicação de página única construída utilizando Preact, TypeScript, Deno e Tailwind CSS. O projeto prioriza a praticidade e desempenho dos sites.
 
